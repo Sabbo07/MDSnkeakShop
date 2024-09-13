@@ -17,7 +17,7 @@ namespace MDSnkeakShop.Models
 
 
     public required Utente utente;
-
+    public required Scarpa scarpa;
     
     }
 }
