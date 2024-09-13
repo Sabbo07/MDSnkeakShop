@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MDSnkeakShop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+947b1acb11ebce9bf2061deda90fd2307ad6ea51")]
 [assembly: System.Reflection.AssemblyProductAttribute("MDSnkeakShop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MDSnkeakShop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

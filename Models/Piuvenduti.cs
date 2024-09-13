@@ -6,15 +6,13 @@ using System.Threading.Tasks;
 
 namespace MDSnkeakShop.Models
 {
-    public class StoricoOrdine
+    public class Piuvenduti
     {
     [Key]
     public int ID {set; get;}
 
-    public int ID_Ordine {set; get;}
-    public int ID_Utente {set; get;}
+    public int ID_Scarpa {set; get;}
 
-    public required Ordine ordine;
-    public required Utente utente;
+    public required Scarpa scarpa;
     }
 }

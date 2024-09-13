@@ -18,10 +18,15 @@ namespace MDSnkeakShop.Models
 
     public int ID_Categoria {set; get;}
 
+    public int ID_Colore {set; get;}
+
     public required Modello modello;
 
     public required Brand brand;
 
     public required Categoria categoria;
+
+    public required Colore colore;
+    
     }
 }
